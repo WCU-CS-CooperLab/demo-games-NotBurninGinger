@@ -14,13 +14,21 @@ A template repository to publish games
 9. [SP - Main Scene Sep 16](Space_rocks-9-16)
 10. [SP - Main Scene Final](Space-Rocks-Final)
 
-### Team Project 1
-12. [Vault Assault V1](Vault_Assault_Game)
-13. [Vault Assault Final](Vault_Assault_Finished_Game)
+### Jungle Juice
+11. [Jungle Juice 9-30](Jungle-Juice-9-30)
+12. [Jungle Juice 10-7](Jungle-Juice-10-7)
 
+### 3D MiniGolf
+13. [3D Minigolf Sep23](3D-Minigolf-Sep23)
+14. [3D Minigolf Sep25](3D-Minigolf-Sep25)
+15. 3D Minigolf Final](3D-Minigolf-Final)
+
+### Team Project 1
+16. [Vault Assault V1](Vault_Assault_Game)
+17. [Vault Assault Final](Vault_Assault_Finished_Game)
 
 ### Project 1: Space Rocks
-14. [Project-Space-Rocks-Phase-II](Project-Space-Rocks-Phase-II)
+18. [Project-Space-Rocks-Phase-II](Project-Space-Rocks-Phase-II)
 
 ### Project 2: Coin Dash
-15. [Project-Coin-Dash-Phase-II](Project-Coin-Dash-Phase-II)
+19. [Project-Coin-Dash-Phase-II](Project-Coin-Dash-Phase-II)
