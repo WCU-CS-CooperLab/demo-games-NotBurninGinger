@@ -21,7 +21,7 @@ A template repository to publish games
 ### 3D MiniGolf
 13. [3D Minigolf Sep23](3D-Minigolf-Sep23)
 14. [3D Minigolf Sep25](3D-Minigolf-Sep25)
-15. 3D Minigolf Final](3D-Minigolf-Final)
+15. (3D Minigolf Final](3D-Minigolf-Final)
 
 ### Team Project 1
 16. [Vault Assault V1](Vault_Assault_Game)
