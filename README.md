@@ -19,3 +19,8 @@ A template repository to publish games
 13. [Vault Assault Final](Vault_Assault_Finished_Game)
 
 
+### Project 1: Space Rocks
+14. [Project-Space-Rocks-Phase-II](Project-Space-Rocks-Phase-II)
+
+### Project 2: Coin Dash
+15. [Project-Coin-Dash-Phase-II](Project-Coin-Dash-Phase-II)
