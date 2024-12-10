@@ -34,5 +34,5 @@ A template repository to publish games
 19. [Vault Assault Final](Vault_Assault_Finished_Game)
 
 ### Team Project 2
-20. [Rat Race Windows Executable](ratRace_Windows.zip)
-21. [Rat Race Mac Executable](ratRace_mac_fin.dmg)
+20. [Rat Race Windows Executable](Team_Project_2/ratRace_Windows.zip)
+21. [Rat Race Mac Executable](Team_Project_2/ratRace_mac_fin.dmg)
