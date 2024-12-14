@@ -39,13 +39,13 @@ A template repository to publish games
 ### Project 2: Coin Dash Phase 2
 17. [Project-Coin-Dash-Phase-II](Project-Coin-Dash-Phase-II)
 
+### Project 3: Infinite Flyer Phase II
+18. [Project-Infinite-Flyer-Phase-II](Infinite-Flyer-Phase-II)
+
 ### Team Project 1
-18. [Vault Assault V1](Vault_Assault_Game)
-19. [Vault Assault Final](Vault_Assault_Finished_Game)
+19. [Vault Assault V1](Vault_Assault_Game)
+20. [Vault Assault Final](Vault_Assault_Finished_Game)
 
 ### Team Project 2
-20. [Rat Race Windows Executable](Team_Project_2/ratRace_Windows.zip)
-21. [Rat Race Mac Executable](Team_Project_2/ratRace_mac_fin.dmg)
-
-### Project 3: Infinite Flyer Phase II
-[Project-Infinite-Flyer-Phase-II](Infinite-Flyer-Phase-II)
+21. [Rat Race Windows Executable](Team_Project_2/ratRace_Windows.zip)
+22. [Rat Race Mac Executable](Team_Project_2/ratRace_mac_fin.dmg)
