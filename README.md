@@ -24,6 +24,9 @@ A template repository to publish games
 #### Project 1: Space Rocks Phase II
 [Project-Space-Rocks-Phase-II](Project-Space-Rocks-Phase-II)
 
+### Project 3: Infinite Flyer Phase II
+[Project-Infinite-Flyer-Phase-II](Infinite-Flyer-Phase-II)
+
 ### Jungle Juice
 11. [Jungle Juice 9-30](Jungle-Juice-9-30)
 12. [Jungle Juice 10-7](Jungle-Juice-10-7)
